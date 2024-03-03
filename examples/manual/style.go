@@ -26,11 +26,11 @@ var (
 		Apply
 
 	styleTabActive = gp.NewStyle().
-		Bold       (true).
-		Underline  (true).
-		BgHex      ("666").
-		FgHex      ("fff").
-		Padding    (1).
+		Bold     (true).
+		Underline(true).
+		BgHex    ("666").
+		FgHex    ("fff").
+		Padding  (1).
 		Apply
 
 	styleCode = gp.NewStyle().
