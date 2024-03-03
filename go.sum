@@ -1,0 +1,6 @@
+github.com/LordOfTrident/ansi-go v0.0.0-20240303140701-6f500abc0ef4 h1:Nnvw8m89ct9CEmgfLLusmtRrcy/2iYSlGLnc/AtX/ZI=
+github.com/LordOfTrident/ansi-go v0.0.0-20240303140701-6f500abc0ef4/go.mod h1:YCxp0FPYMTvGdQLcE1wvvCWPQNNIW0AdqVoZa0nEnis=
+golang.org/x/sys v0.17.0 h1:25cE3gD+tdBA7lp7QfhuV+rJiE9YXTcS3VG1SqssI/Y=
+golang.org/x/sys v0.17.0/go.mod h1:/VUhepiaJMQUp4+oa/7Zr1D23ma6VTLIYjOOTFZPUcA=
+golang.org/x/term v0.17.0 h1:mkTF7LCd6WGJNL3K1Ad7kwxNfYAW6a8a8QqtMblp/4U=
+golang.org/x/term v0.17.0/go.mod h1:lLRBjIVuehSbZlaOtGMbcMncT+aqLLLmKrsjNrUguwk=
