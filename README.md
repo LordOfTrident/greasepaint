@@ -22,6 +22,8 @@
 	<p align="center">
 		<a href="#documentation">Documentation</a>
 		·
+		<a href="#demo">View Demo</a>
+		.
 		<a href="https://github.com/LordOfTrident/greasepaint/issues">Report Bug</a>
 		·
 		<a href="https://github.com/LordOfTrident/greasepaint/issues">Request Feature</a>
@@ -33,6 +35,7 @@
 	<summary>Table of contents</summary>
 	<ul>
 		<li><a href="#introduction">Introduction</a></li>
+		<li><a href="#demo">Demo</a></li>
 		<li><a href="#usage">Usage</a></li>
 		<li><a href="#example">Example</a></li>
 		<li><a href="#documentation">Documentation</a></li>
@@ -43,6 +46,11 @@
 ## Introduction
 A convenient CLI output styling library for Go which also handles omitting ansi sequences when
 redirected to a file for sane output.
+
+## Demo
+<p align="center">
+	<img src="./res/demo.gif" width="80%">
+</p>
 
 ## Usage
 Add this package to your project
